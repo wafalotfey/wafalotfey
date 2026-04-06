@@ -1,6 +1,5 @@
 # Hi there 👋, I'm WAFA
-Student in the Excellence Bachelor’s Program in Data Analytics and Artificial Intelligence at Ibn Zohr University,
-
+Student in the 1st year of the Excellence Master’s Program in Data Analytics and Artificial Intelligence at Ibn Zohr University
 - 📫 How to reach me **lotfy.wafa@gmail.com**
 
 # 💻 Tech Stack:
